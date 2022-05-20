@@ -1,4 +1,4 @@
-package com.deepaktiwari.chatsapp.Activities;
+package com.miaansad.chatsapp.Activities;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
